@@ -21,13 +21,16 @@ criaCartao(
     'quantos titulos tem o senna?',
     '3 titulos'
 )
+
 criaCartao(
     'Programação',
     'em que anos o vettel dominou a formula 1',
     '2010,2011,2012,2013'
 )
+
 criaCartao(
     'Programação',
     'qeum sao os tres maiores campeoes da formula 1?',
     'schumacher e hamilton com sete e fagio com 5'
+    
 )
